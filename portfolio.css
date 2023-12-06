@@ -1,0 +1,33 @@
+.fullcontent
+{
+    display:flex;
+    width:100;
+}
+.righthalf
+{
+flex:2;
+}
+.about
+{
+    background-color: yellow;
+}
+.lefthalf
+{
+    flex:1;
+    background-color: black;
+    color:white;
+    
+}
+.image
+{
+    padding-left:40px;
+    
+} 
+.details
+{
+    display:flex;
+}  
+.space
+{
+    flex;
+}
